@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Családi"
+    },
+    {
+      "id": 2,
+      "name": "Kaland"
+    },
+    {
+      "id": 3,
+      "name": "Vígjáték"
+    },
+    {
+      "id": 4,
+      "name": "Krimi"
+    }
+  ],
+  "cartoons": [
+    { 
+      "id": 1, 
+      "name": "Pirula Panda", 
+      "category_id": 1,
+      "year": 2022,     
+      "length": 100, 
+      "description": "A Master Origin Colombia kizárólag magasan fekvő ültetvényeken termő, mosott kolumbiai Arabica szemekből készül.",
+      "director": "Domee Shi",
+      "music": "Ludwig Göransson",
+      "image": "pirulapanda.jpg"
+    },
+    { 
+      "id": 2, 
+      "name": "Rango", 
+      "category_id": 2,
+      "year": 2011,     
+      "length": 107, 
+      "description": "Rango, a kaméleon, házi kedvencként egyhangú életét éli, miközben komoly identitásválságon megy keresztül. Egy baleset során az országút melletti sivatagban találja magát. A pusztában vándorolva jut el Por városába, melyet furcsa, törvényen kívüli lények laknak. Rango, hogy kitűnjön a többiek…",
+      "director": "Domee Shi",
+      "music": "Gore Verbinski",
+      "image": "rango.jpg"   
+    },
+    { 
+      "id": 3, 
+      "name": "Hibás Ron", 
+      "category_id": 2,
+      "year": 2021,     
+      "length": 106, 
+      "description": "Barney, a középsulis srác új barátra tesz szert Ron, a hibásan működő kis robot társaságában. Ron meghibásodása azonban hamarosan hatalmas kalandba keveri két...",
+      "director": "Sarah Smith",
+      "music": "Henry Jackman",
+      "image": "hibasron.jpg"
+    },
+    { 
+      "id": 4, 
+      "name": "Z, a hangya", 
+      "category_id": 1,
+      "year": 1998,     
+      "length": 83, 
+      "description": "Egy hangyabolyban milliószámra nyüzsögnek a hangyák, mindegyiknek megvan a maga dolga. Z 4195 (Woody Allen) történetesen egy dolgozó, aki lehet, hogy pályát tévesztett. Ez a...",
+      "director": "Eric Darnell",
+      "music": "Harry Gregson-Williams",
+      "image": "zahangya.jpg"
+    },
+    { 
+      "id": 5, 
+      "name": "Derült égből fasírt", 
+      "category_id": 3,
+      "year": 2009,     
+      "length": 90, 
+      "description": "A kis Flint gyermekkorában csupa finom ételről álmodozott, de sajnos a kis szigeten, ahol él, a menü leggyakrabban hal. A felcseperedett Flint (Bill Hader) még mindig gyermekkori...",
+      "director": "Phil Lord",
+      "music": "Mark Mothersbaugh",
+      "image": "fasirt.jpg"    
+    },
+    { 
+      "id": 6, 
+      "name": "Roger nyúl a pácban", 
+      "category_id": 4,
+      "year": 1988,     
+      "length": 104, 
+      "description": "Roger nyúl (Charles Fleischer) egy rajzfilmsztár a Firkanegyedből. Felesége, Jessica körül pletykák kapnak lábra, ezért Roger felbérel egy magándetektívet, hogy tisztázza az...",
+      "director": "Robert Zemeckis",
+      "music": "Alan Silvestri",
+      "image": "roger.jpg"     
+    },
+    { 
+      "id": 7, 
+      "name": "Ferdinánd", 
+      "category_id": 1,
+      "year": 2017,     
+      "length": 108, 
+      "description": "Mi dolga a világon egy bikának? Viadalokon való részvétel. És mire vágyik minden igazi bika? Természetesen arra, hogy végre a stadion közepén állhasson, a fűrészport... ",
+      "director": "Carlos Saldanha",
+      "music": "John Powell",
+      "image": "ferdinand.jpg"     
+    },
+    { 
+      "id": 8, 
+      "name": "Karácsony Artúr", 
+      "category_id": 1,
+      "year": 2011,     
+      "length": 97, 
+      "description": "A Télapó olajozottan és pontos szervezéssel működő ajándékosztó üzemébe hiba csúszik: mind a kétmilliárd gyermek időben megkapja ajándékát, kivéve egy kislányt, aki...",
+      "director": "Sarah Smith",
+      "music": "Harry Gregson-Williams",
+      "image": "artur.jpg"  
+    },
+    { 
+      "id": 9, 
+      "name": "A hihetetlen család", 
+      "category_id": 2,
+      "year": 2004,     
+      "length": 115, 
+      "description": "Mr. Irdatlan szuperhősből kénytelen egy hétköznapi, kertvárosi családapává visszaminősíteni magát, mivel egy mindenlébenkanál rajongója betett a hősök renoméjának. Ugyanis...",
+      "director": "Brad Bird",
+      "music": "Michael Giacchino",
+      "image": "hihetetlen.jpg"   
+    },
+    { 
+      "id": 10, 
+      "name": "Eszeveszett birodalom", 
+      "category_id": 2,
+      "year": 2000,     
+      "length": 78, 
+      "description": "Kuczó Dél-Amerika egyik királyságának teljhatalmú uralkodója, aki mindig azt teszi, amit csak akar. A legújabb terve, hogy egy vízividámparkot létesítsen egy közeli falu... ",
+      "director": "Mark Dindal",
+      "music": "John Debney",
+      "image": "eszeveszett.jpg"  
+    }
+  ]
+}
